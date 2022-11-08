@@ -1,0 +1,78 @@
+commit 456bb98721a9c57071f591f92e8c82cb563e9940
+Merge: c2e5bb1 dbb2630
+Author: B226125-2022 <anonymous_email>
+Date:   Fri Sep 30 14:01:26 2022 +0100
+
+    There were conflics with someotherfile.sh, kept all changes
+
+commit dbb26305b5adf2c8f041c568627968f10d377d44
+Author: B226125-2022 <anonymous_email>
+Date:   Fri Sep 30 13:49:35 2022 +0100
+
+    Final version of the someotherfile.sh shell script prior to merge
+
+commit c2e5bb18fc11bb508a437580b41739b90e338e4f
+Author: B226125-2022 <anonymous_email>
+Date:   Fri Sep 30 13:20:33 2022 +0100
+
+    Updated contents of tar, coolscript
+
+commit aed67c5e25f58aec218a9ad9eace3f3dfbbf73ae
+Author: B226125-2022 <anonymous_email>
+Date:   Fri Sep 30 13:19:36 2022 +0100
+
+    I am not sure cool script is actually any good
+
+commit b9154436ef9de5b9e79bbb6c980f5a998dbbabce
+Author: B226125-2022 <anonymous_email>
+Date:   Fri Sep 30 13:15:24 2022 +0100
+
+    Added my_cool_script
+
+commit 87b595017ad3aacee80bedf6a9393bd37c2f371f
+Author: B226125-2022 <anonymous_email>
+Date:   Fri Sep 30 13:14:23 2022 +0100
+
+    Third version of the someotherfile.sh shell script
+
+commit b7a6ab2cec7dc388d7d98d35dd9d49d09e80b8c9
+Author: B226125-2022 <anonymous_email>
+Date:   Fri Sep 30 13:13:37 2022 +0100
+
+    Updated version of tar
+
+commit 4d2d43da4cfe71b4b2e07204cf27a9e89c468716
+Author: B226125-2022 <anonymous_email>
+Date:   Fri Sep 30 13:13:15 2022 +0100
+
+    Second version of the someotherfile.sh shell script
+
+commit 82acf27dd76868408baf229694a53ea95b321637
+Author: B226125-2022 <anonymous_email>
+Date:   Fri Sep 30 13:12:31 2022 +0100
+
+    Added the someotherfile.sh shell script
+
+commit 2b6865e5f0d211e589964aea22745b039ed02d6b
+Author: B226125-2022 <anonymous_email>
+Date:   Fri Sep 30 13:10:24 2022 +0100
+
+    Additional motif files, and updated tar file
+
+commit 87733de94e00714cdebd935f830f1e36cd1cb2f5
+Author: B226125-2022 <anonymous_email>
+Date:   Fri Sep 30 13:06:15 2022 +0100
+
+    Adding initial tar file
+
+commit 035e0c8cb016255dfe7cd5da046c001f1cbfeae5
+Author: B226125-2022 <anonymous_email>
+Date:   Fri Sep 30 13:00:09 2022 +0100
+
+    CodeFiles all done and tar zipped
+
+commit e9b545426480a50e55472254e2027612c967809d
+Author: B226125-2022 <anonymous_email>
+Date:   Fri Sep 30 12:58:03 2022 +0100
+
+    First file added
