@@ -1,0 +1,10 @@
+#!usr/bin/env python3
+
+import sys
+import os
+
+os.system('clear')
+
+def interrogate(name, age, colour, python, flat) :
+	import string
+	print("\n These are the details you have inputted: \n Name:", name, "\n Age:", age, "\n colour:", colour, "\n Do you like python:", python, "\n Do you think the world is flat?:", flat)
